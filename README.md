@@ -1,1 +1,1 @@
-# function-debouncer-js
+Functon debouncer implementation in pure js.
